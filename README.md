@@ -1,6 +1,7 @@
 
 
-(ENG)  With This small circuit we can test Led and Zener
+(ENG)  With This small circuit we can test Led and Zener diodes, so we can sure that 
+
 
 
 
